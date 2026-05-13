@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-05-13",
+  "sources": [
+    {
+      "id": "homeoint-kent-index",
+      "label": "Homeoint Kent repertory landing page",
+      "path": "data/external-sources/homeoint-kent-repertory.html",
+      "status": "downloaded"
+    },
+    {
+      "id": "homeoint-kent-book-index",
+      "label": "Homeoint Kent repertory book index",
+      "path": "data/external-sources/homeoint-kent-book-index.html",
+      "status": "downloaded"
+    },
+    {
+      "id": "homeoint-kent-book-pages",
+      "label": "Homeoint Kent repertory chapter pages",
+      "path": "data/external-sources/kent-book",
+      "pageCount": 43,
+      "status": "downloaded"
+    },
+    {
+      "id": "poppins-local-fonts",
+      "label": "Poppins local font files",
+      "path": "assets/fonts/poppins",
+      "status": "downloaded"
+    }
+  ]
+}

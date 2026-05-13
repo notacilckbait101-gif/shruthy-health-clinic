@@ -1,0 +1,289 @@
+{
+  "doctors": [
+    {
+      "_id": "doctor_f64bf5aa-6de5-429e-ae89-7fb54c20c0fe",
+      "fullName": "shrujan 29",
+      "clinicName": "Homeopathy Clinic",
+      "email": "shrujan29.29@gmail.com",
+      "password": "$2a$12$AGmjaJbWMUqThxubJ7klTurUA8NCxslSx8x3kBOgKVBNtm21tp6K6",
+      "phoneNumber": "",
+      "medicalLicenseId": "HOM-1778649380883",
+      "specialty": "Classical Homeopathy",
+      "isActive": true,
+      "createdAt": "2026-05-13T05:16:20.883Z",
+      "updatedAt": "2026-05-13T10:24:44.290Z",
+      "lastLoginAt": "2026-05-13T10:24:44.289Z",
+      "avatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocJjFp8gFcZjofNcFiB3prjspicKYANLdnI1HHJdkEGxQUdsUkc=s96-c",
+      "providerAccountId": "118160220468913241431",
+      "authProvider": "google"
+    },
+    {
+      "_id": "doctor_2f2ece76-6431-48d2-aa35-55854995e03e",
+      "fullName": "clyptra",
+      "clinicName": "Shruty Health Clinic",
+      "email": "clyptra.in@gmail.com",
+      "password": "$2a$12$W44yuH.TK6JB072LHZzGRe6AJn4BnTIDAn9KAPY.TpScEUpA9lEBi",
+      "avatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocI6oUDXiWgWrQS8VB44ADCVyrVaR4N9v5lFE7G3QJ7ZHkDDIhQ=s96-c",
+      "authProvider": "google",
+      "providerAccountId": "104153734487682463099",
+      "phoneNumber": "",
+      "medicalLicenseId": "HOM-1778655766208",
+      "specialty": "Classical Homeopathy",
+      "isActive": true,
+      "createdAt": "2026-05-13T07:02:46.208Z",
+      "updatedAt": "2026-05-13T07:02:46.210Z",
+      "lastLoginAt": "2026-05-13T07:02:46.210Z"
+    }
+  ],
+  "patients": [
+    {
+      "fullName": "shrujan 29",
+      "gender": "MALE",
+      "age": 32,
+      "contactNumber": "1234567889",
+      "email": "shrujan29.29@gmail.com",
+      "address": "asda",
+      "emergencyContact": "asd",
+      "bloodType": "b+",
+      "allergies": "asd",
+      "medicalHistory": "asd",
+      "chiefComplaint": "asd",
+      "thermalPreference": "cool",
+      "cravings": [
+        "sweet"
+      ],
+      "emotionalSymptoms": [
+        "weepy"
+      ],
+      "sleepPattern": "restless",
+      "modalities": [],
+      "aggravations": [
+        "night"
+      ],
+      "ameliorations": [
+        "pressure"
+      ],
+      "currentSymptoms": [
+        "fever",
+        "cold"
+      ],
+      "doctorId": "doctor_f64bf5aa-6de5-429e-ae89-7fb54c20c0fe",
+      "_id": "patient_18ef5a83-a4bb-46dd-a5ac-c77647ddb738",
+      "isActive": true,
+      "createdAt": "2026-05-13T05:18:25.464Z",
+      "updatedAt": "2026-05-13T05:20:32.655Z"
+    },
+    {
+      "fullName": "Shrujan ",
+      "gender": "MALE",
+      "age": 17,
+      "contactNumber": "7780197298",
+      "email": "shrujan9.29@gmail.com",
+      "address": "test",
+      "bloodType": "B+",
+      "chiefComplaint": "Restlessness",
+      "thermalPreference": "cool",
+      "cravings": [
+        "fast food"
+      ],
+      "emotionalSymptoms": [
+        "irritable"
+      ],
+      "sleepPattern": "sleeps late",
+      "modalities": [],
+      "aggravations": [
+        "night"
+      ],
+      "ameliorations": [
+        "cool"
+      ],
+      "currentSymptoms": [
+        "furious over small things",
+        "restless"
+      ],
+      "doctorId": "doctor_f64bf5aa-6de5-429e-ae89-7fb54c20c0fe",
+      "_id": "patient_9f6fd71c-abe3-403c-a370-da448daf1626",
+      "isActive": true,
+      "createdAt": "2026-05-13T05:46:56.021Z",
+      "updatedAt": "2026-05-13T05:48:11.988Z"
+    },
+    {
+      "fullName": "shrujan 29",
+      "gender": "MALE",
+      "age": 32,
+      "contactNumber": "1234567889",
+      "consultationFeeInr": 500,
+      "bloodType": "b",
+      "cravings": [],
+      "emotionalSymptoms": [],
+      "modalities": [],
+      "aggravations": [],
+      "ameliorations": [],
+      "currentSymptoms": [
+        "back pain"
+      ],
+      "doctorId": "doctor_f64bf5aa-6de5-429e-ae89-7fb54c20c0fe",
+      "_id": "patient_70e9bf08-5308-45b0-82c7-bb4851e44e33",
+      "isActive": true,
+      "createdAt": "2026-05-13T06:21:29.725Z",
+      "updatedAt": "2026-05-13T06:24:47.371Z"
+    },
+    {
+      "fullName": "Shrujan123",
+      "gender": "MALE",
+      "age": 17,
+      "contactNumber": "1234567889",
+      "address": "asd",
+      "consultationFeeInr": 1000,
+      "bloodType": "B",
+      "chiefComplaint": "asd",
+      "cravings": [
+        "fast food"
+      ],
+      "emotionalSymptoms": [],
+      "sleepPattern": "late night",
+      "modalities": [],
+      "aggravations": [],
+      "ameliorations": [],
+      "currentSymptoms": [
+        "acne"
+      ],
+      "doctorId": "doctor_f64bf5aa-6de5-429e-ae89-7fb54c20c0fe",
+      "_id": "patient_8c8d6c03-d060-4484-b482-b866897a5680",
+      "isActive": true,
+      "createdAt": "2026-05-13T08:25:27.890Z",
+      "updatedAt": "2026-05-13T08:26:38.448Z"
+    }
+  ],
+  "visits": [
+    {
+      "doctorId": "doctor_f64bf5aa-6de5-429e-ae89-7fb54c20c0fe",
+      "patientId": "patient_18ef5a83-a4bb-46dd-a5ac-c77647ddb738",
+      "visitDate": "2026-05-13T05:20:32.654Z",
+      "symptoms": [
+        "fever",
+        "cold"
+      ],
+      "selectedRemedies": [
+        {
+          "remedyName": "Sulphur",
+          "score": 264,
+          "potency": "30C",
+          "dosage": "30C potency; adjust repetition clinically based on sensitivity, vitality, and follow-up.",
+          "instructions": "Matched via local repertory against Fever, Fever, bed, Fever, day"
+        },
+        {
+          "remedyName": "Rhus Toxicodendron",
+          "score": 262,
+          "potency": "30C",
+          "dosage": "30C potency; adjust repetition clinically based on sensitivity, vitality, and follow-up.",
+          "instructions": "Matched via local repertory against Fever, Fever, bed, Fever, body"
+        },
+        {
+          "remedyName": "Nux Vomica",
+          "score": 261,
+          "potency": "30C",
+          "dosage": "30C potency; adjust repetition clinically based on sensitivity, vitality, and follow-up.",
+          "instructions": "Matched via local repertory against Fever, Fever, bed, Fever, body"
+        }
+      ],
+      "_id": "visit_97de7ba5-0626-4001-8ea3-b2975624bc96",
+      "createdAt": "2026-05-13T05:20:32.655Z",
+      "updatedAt": "2026-05-13T05:20:32.655Z"
+    },
+    {
+      "doctorId": "doctor_f64bf5aa-6de5-429e-ae89-7fb54c20c0fe",
+      "patientId": "patient_9f6fd71c-abe3-403c-a370-da448daf1626",
+      "visitDate": "2026-05-13T05:48:11.986Z",
+      "symptoms": [
+        "furious over small things",
+        "restless"
+      ],
+      "selectedRemedies": [
+        {
+          "remedyName": "Sulphur",
+          "score": 128,
+          "potency": "12C",
+          "dosage": "Traditional reference only: not too frequent dosing; chronic constitutions are often reviewed after a single dose or widely spaced doses. Typical pellet count in common reference dispensing: 3-5 pellets.",
+          "instructions": "Matched via local repertory against Sleep, restless, Sleep, restless, night, Sleep, restless, night, midnight"
+        },
+        {
+          "remedyName": "Lycopodium Clavatum",
+          "score": 107,
+          "potency": "30C",
+          "dosage": "No remedy-specific dosing note is available in the local source cache. Use the materia medica source before assigning a fixed schedule.",
+          "instructions": "Matched via local repertory against Sleep, restless, Sleep, restless, night, Sleep, restless, night, midnight"
+        },
+        {
+          "remedyName": "Mercurius Solubilis",
+          "score": 93,
+          "potency": "30C",
+          "dosage": "No remedy-specific dosing note is available in the local source cache. Use the materia medica source before assigning a fixed schedule.",
+          "instructions": "Matched via local repertory against Sleep, restless, Expectoration, cool (cold), Ear, night"
+        }
+      ],
+      "_id": "visit_dac72f3b-ec8b-48f4-af29-7ba475b5afb7",
+      "createdAt": "2026-05-13T05:48:11.988Z",
+      "updatedAt": "2026-05-13T05:48:11.988Z"
+    },
+    {
+      "doctorId": "doctor_f64bf5aa-6de5-429e-ae89-7fb54c20c0fe",
+      "patientId": "patient_70e9bf08-5308-45b0-82c7-bb4851e44e33",
+      "visitDate": "2026-05-13T06:24:47.370Z",
+      "symptoms": [
+        "back pain"
+      ],
+      "billedAmountInr": 500,
+      "selectedRemedies": [
+        {
+          "remedyName": "Nux Vomica",
+          "score": 77,
+          "potency": "30C",
+          "dosage": "Traditional reference only: often used in infrequent doses with reassessment rather than repeated fixed daily scheduling. Typical pellet count in common reference dispensing: 3-5 pellets.",
+          "instructions": "Matched via local repertory against Back, pain, Back, pain, air, Back, pain, sore"
+        },
+        {
+          "remedyName": "Phosphorus",
+          "score": 77,
+          "potency": "30C",
+          "dosage": "Traditional reference only: usually spaced carefully, with extra caution in tubercular or hemorrhagic pictures. Typical pellet count in common reference dispensing: 3-5 pellets.",
+          "instructions": "Matched via local repertory against Back, pain, Back, pain, move, Back, pain, sore"
+        },
+        {
+          "remedyName": "Sepia Officinalis",
+          "score": 75,
+          "potency": "30C",
+          "dosage": "No remedy-specific dosing note is available in the local source cache. Use the materia medica source before assigning a fixed schedule.",
+          "instructions": "Matched via local repertory against Back, pain, Back, pain, air, Back, pain, move"
+        }
+      ],
+      "_id": "visit_a7d241d0-9c8b-4e0c-99bd-92648657c729",
+      "createdAt": "2026-05-13T06:24:47.371Z",
+      "updatedAt": "2026-05-13T06:24:47.371Z"
+    },
+    {
+      "doctorId": "doctor_f64bf5aa-6de5-429e-ae89-7fb54c20c0fe",
+      "patientId": "patient_8c8d6c03-d060-4484-b482-b866897a5680",
+      "visitDate": "2026-05-13T08:26:38.446Z",
+      "symptoms": [
+        "acne"
+      ],
+      "billedAmountInr": 1000,
+      "selectedRemedies": [
+        {
+          "remedyName": "Causticum",
+          "score": 34,
+          "potency": "30C",
+          "dosage": "No remedy-specific dosing note is available in the local source cache. Use the materia medica source before assigning a fixed schedule.",
+          "instructions": "Matched via local repertory against Face, eruptions, acne, Face, eruptions, acne, rosacea, Face, eruptions, acne, forehead"
+        }
+      ],
+      "_id": "visit_65421802-a9be-4de6-992a-13b7ef8c1c12",
+      "createdAt": "2026-05-13T08:26:38.448Z",
+      "updatedAt": "2026-05-13T08:26:38.448Z"
+    }
+  ],
+  "appointments": [],
+  "followUps": [],
+  "notes": []
+}
